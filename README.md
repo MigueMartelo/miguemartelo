@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Migue Martelo!
 
-<!--
-**MigueMartelo/miguemartelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Cartagena - Colombia, I am a Systems Engineer. I've been focusing on front end for a little over three years, specifically JavaScript and React.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at @globant
+- 🌱 I’m currently learning NodeJs
+- 📫 How to reach me: ![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miguemartelo31)](https://twitter.com/miguemartelo31) [![Linkedin](https://img.shields.io/badge/-miguemartelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguemartelo/)](https://www.linkedin.com/in/miguemartelo/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill set:
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+</p>
