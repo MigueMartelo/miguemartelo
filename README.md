@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Migue Martelo!
 
-I am from Cartagena - Colombia, I am a Systems Engineer. I've been focusing on front end for a little over three years, specifically JavaScript and React.
+I am from Cartagena - Colombia, I am a Systems Engineer. I've been focusing on front end for a little over five years, specifically JavaScript and React.
 
-- 🔭 I’m currently working at @globant
-- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working at @appgate
+- 🌱 I’m currently learning NodeJs, Nest
 - 📫 How to reach me: [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miguemartelo31)](https://twitter.com/miguemartelo31) [![Linkedin](https://img.shields.io/badge/-miguemartelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguemartelo/)](https://www.linkedin.com/in/miguemartelo/) 
 
 ### Skill set:
